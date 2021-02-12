@@ -6,7 +6,7 @@
 this keep two files 
 # config.txt 
 - this name server
-# configtIME 
+# configtIME.exe 
 - this time reboot
 
 this files copy where .exe
